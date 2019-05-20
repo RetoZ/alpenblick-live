@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Willkommen on Restaurant Alpenblick</title>
+    <link>https://example.org/</link>
+    <description>Recent content in Willkommen on Restaurant Alpenblick</description>
+    <generator>Hugo -- gohugo.io</generator>
+    
+	<atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Gallerie</title>
+      <link>https://example.org/gallery/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/gallery/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gastgeber</title>
+      <link>https://example.org/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/about/</guid>
+      <description>Petra Reithaar &amp;amp; Adrian Schwerzmann      Seit nun schon 20 Jahren sind Petra und Adrian mit Leidenschaft in der Gastronomie tätig.
+Adrian ist passionierter Koch und in der Freizeit viel in den Bergen unterwegs, sei es mit den Skiern, mit dem Bike oder als Bergsteiger.
+Petra ist seit der Ausbildung im Service immer für das Wohl der Gäste besorgt und verbringt ihre freien Tage ebenfalls gerne in den Bergen, sei es beim Wandern, Skifahren oder einfach zum Lesen.</description>
+    </item>
+    
+    <item>
+      <title>Kontakt</title>
+      <link>https://example.org/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/contact/</guid>
+      <description> Koordinaten Restaurant Alpenblick Hohneggweg 100 3906 Saas-Fee
+Telefon 076 539 32 78 E-Mail info@alpenblick-saasfee.ch
+Öffnungszeiten  Mittwoch bis Montag, 09.00 bis 17.00 Uhr. Dienstag geschlossen.  Lage Über eine einstündige, gemütliche Wanderung erreichen Sie uns via Wildi, Alphitta und dem idyllischen Melchboden.
+Über eine direktere und dadurch auch sportliche Route erreichen Sie uns via Kirche, Restaurant Schäferstube durch den romantischen Hohwald.
+ </description>
+    </item>
+    
+  </channel>
+</rss>
