@@ -3,29 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://example.org/categories/</loc>
-    <priority>0</priority>
+    <loc>https://www.alpenblick-saasfee.ch/categories/</loc>
   </url>
   
   <url>
-    <loc>https://example.org/gallery/</loc>
+    <loc>https://www.alpenblick-saasfee.ch/gallery/</loc>
   </url>
   
   <url>
-    <loc>https://example.org/about/</loc>
+    <loc>https://www.alpenblick-saasfee.ch/about/</loc>
   </url>
   
   <url>
-    <loc>https://example.org/contact/</loc>
+    <loc>https://www.alpenblick-saasfee.ch/contact/</loc>
   </url>
   
   <url>
-    <loc>https://example.org/tags/</loc>
-    <priority>0</priority>
+    <loc>https://www.alpenblick-saasfee.ch/tags/</loc>
   </url>
   
   <url>
-    <loc>https://example.org/</loc>
+    <loc>https://www.alpenblick-saasfee.ch/</loc>
   </url>
   
 </urlset>
